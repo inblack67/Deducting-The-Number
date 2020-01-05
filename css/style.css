@@ -1,0 +1,11 @@
+body{
+  background: #333;
+}
+
+.container{
+  color: white;
+}
+#guess-btn{
+  background: red;
+  color: white;
+}
